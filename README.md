@@ -1,6 +1,6 @@
 ---
 title: Soil O Culture
-emoji: 📈
+emoji: 🌾
 colorFrom: green
 colorTo: pink
 sdk: streamlit
