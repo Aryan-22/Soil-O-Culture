@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://Aryan-24:$HF_TOKEN@huggingface.co/spaces/Aryan-24/Soil-O-Culture main
+        run: git push --force https://Aryan-24:$HF_TOKEN@huggingface.co/spaces/Aryan-24/Soil-O-Culture main
