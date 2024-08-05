@@ -9,3 +9,7 @@ app_file: app.py
 pinned: false
 ---
 #Soil-O-Culture demo
+
+
+#Live Link
+https://huggingface.co/spaces/Aryan-24/Soil-O-Culture
